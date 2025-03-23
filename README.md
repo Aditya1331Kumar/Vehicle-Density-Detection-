@@ -1,4 +1,4 @@
-# AI-Based Smart Traffic Management & Violence Detection System
+# AI-Based Smart Traffic Management
 
 ## Team Name: Tech Dragons
 
@@ -109,10 +109,7 @@ Our system is not just an enhancement to existing infrastructure—it is a **gam
 ### 1. Smart Traffic Signal Management
 [GitHub Repository](https://github.com/Aditya1331Kumar/Tech-Dragons/blob/main/smart_signal_management.py)
 
-### 2. Violence Detection System
-[GitHub Repository](https://github.com/Aditya1331Kumar/Tech-Dragons/blob/main/violence_Detection.py)
 
----
 
 # Smart Signal Management
 
@@ -157,17 +154,6 @@ Enter the video file: video.mp4
 
 ---
 
-
-## Violence Detection System
-Our violence detection system has been **successfully deployed**, offering real-time threat detection and alerts to ensure public safety.
-
-[Live Deployment](https://violence-detection-sujhutfjkbkjpjpknjotru.streamlit.app/)
-
-Just drag the video or image and see the output.
-Experience real-time AI-powered surveillance designed for smart city security.
-
-
----
 
 ## Contributors
 - **Aditya kumar Gupta**
